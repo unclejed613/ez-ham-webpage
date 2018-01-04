@@ -1,0 +1,4 @@
+<footer>
+<hr>
+<p>Contact: mycallsign <img src="img/animal.gif"> qsl'net<p>
+</footer>

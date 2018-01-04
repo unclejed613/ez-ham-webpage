@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/menu.css">
+    <head>
+        <meta charset="utf-8">
+        <title>mycallsign qsl.net page</title>
+    </head>
+    <body>
+        <header></header>
+        <div align="center"><!--#include virtual="include/menu.txt"--></div>
+<p>'
+<p>
+<p>Here is a place for some amateur radio related info.
+<p>
+<p>'
+        <div align="center"><!--#include virtual="include/footer.txt"--></div>
+    </body>
+</html>
+

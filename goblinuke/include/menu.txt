@@ -1,0 +1,21 @@
+ <ul class="menu">
+        <li><a href="index.shtml">Main page</a></li>
+        <li>
+            <a href="pr.shtml">Projects</a>
+            <ul class="menu">
+                <li><a href="pr1.shtml">Projects-1</a></li>
+                <li><a href="pr2.shtml">Projects-2</a></li>
+                <li><a href="pr3.shtml">Projects-3</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="hb.shtml">Homebrew</a>
+            <ul class="menu">
+                <li><a href="hb1.shtml">Homebrew-1</a></li>
+                <li><a href="hb2.shtml">Homebrew-2</a></li>
+                <li><a href="hb3.shtml">Homebrew-3</a></li>
+                <li><a href="hb4.shtml">Homebrew-4</a></li>
+                <li><a href="hb5.shtml">Homebrew-5</a></li>
+            </ul>
+        </li>
+        </ul>
